@@ -1,0 +1,74 @@
+ body{
+	
+	background-image: url(../image/theam2.webp);
+	background-size: 100% 2000px;
+}
+.box1{
+	border: 3px solid none;
+	width: 140px;
+	height: 160px;
+	margin: 50px;
+	margin-top: 55px;
+	background-image: url(../image/sarju.JPG);
+	background-size: 140px 160px;
+	box-shadow: 5px 5px #C85C8E;
+}
+.box{
+	
+	width: 1000px;
+	height: 500px;
+	margin: 40px	;
+	display: flex;
+}
+.box2{
+	/*border: 3px solid black;*/
+	width: 400px;
+	height: 430px;
+	margin: 36px;
+	padding-left: 40px; 
+	box-shadow: 1px 1px 10px black;
+	border-radius: 20px;
+	background-image: url(../image/gif5.gif);
+	background-size: 400px 430px;
+
+}
+.box3{
+	width: 1000px;
+	height: 300px;
+	margin: 40px	;
+	display: flex;
+
+}
+.box4{
+	
+	width: 300px;
+	height: 100px;
+	margin-top: 170px;
+	
+}
+.box5{
+	border: 3px solid black;
+	width: 300px;
+	height: 100px;
+
+
+}
+.box6{
+	/*border: 3px solid black;*/
+	width: 400px;
+	height: 430px;
+	margin: 36px;
+	padding-left: 40px; 
+	box-shadow: 1px 1px 10px black;
+	border-radius: 20px;
+	background-image: url(../image/gif5.gif);
+	background-size: 400px 430px;
+	
+	}
+	h2,h1{
+		color: #C85C8E;
+	}
+	hr{
+		background-color: #7B2869;
+		height: 3px;
+	}
